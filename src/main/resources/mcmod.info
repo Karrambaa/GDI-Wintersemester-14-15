@@ -1,0 +1,21 @@
+[
+{
+"modid": "LetsMod",
+"name": "Lets Mod",
+"description": "Testing, please stand by",
+"version": "1.0",
+"mcversion": "${minecraft_version}",
+"url": "",
+"updateUrl": "",
+"authorList": [
+"Karrambaa"
+],
+"credits": "",
+"logoFile": "",
+"screenshots": [
+],
+"parent":"",
+"dependencies": [
+]
+}
+]
